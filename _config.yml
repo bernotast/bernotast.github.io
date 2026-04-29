@@ -67,8 +67,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
+  hide                   :  true #, false (default)
+search                   :  true # false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
@@ -114,11 +114,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Tadas Bernotas"
+  avatar           : "/assets/images/Bio_Photo.jpg"
+  bio              : "Hey there! My name is Tadas and I am originally from Vilnius, Lithuania, but I have lived in the Netherlands for the past 5 years. After finishing my master's degree in Neuropsychology, I took a different turn and became a junior data manager at ODISSEI. I'm now working at Erasmus University to ensure better data reproducibility and accessibility. In my free time I enjoy working out, cooking and reading. My favourite genre is fantasy (LOTR is the best movie of all time) and I also like to read non-fiction books about history and psychology."
+  location         : "Tilburg, The Netherlands"
+  email            : "tadas@odissei-data.nl"
+  linkedin         : "www.linkedin.com/in/tadas-bernotas"
+  orcid            : "https://orcid.org/0009-0004-3773-7548"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
