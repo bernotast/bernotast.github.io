@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -17,7 +17,7 @@ minimal_mistakes_skin  : "air"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Personal Blog of Tadas"
+title                    : "Tadas Bernotas, Clinical Neuropsychology MSc"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tadas Bernotas"
