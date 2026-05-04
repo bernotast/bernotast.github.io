@@ -17,7 +17,7 @@ minimal_mistakes_skin  : "air"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Personal Blog of Tadas Bernotas"
+title                    : "Tadas Bernotas, Clinical Neuropsychology MSc"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tadas Bernotas"
@@ -120,7 +120,7 @@ author:
   location         : "Tilburg, The Netherlands"
   email            : "tadas@odissei-data.nl"
   linkedin         : "tadas-bernotas"
-  orcid            : "0009-0004-3773-7548"
+  orcid            :  "https://orcid.org/0009-0004-3773-7548"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -151,7 +151,7 @@ footer:
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Orcid"
       icon: "fab fa-orcid"
-      url: "0009-0004-3773-7548"
+      url: "https://orcid.org/0009-0004-3773-7548"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
