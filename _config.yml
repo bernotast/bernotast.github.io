@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -17,11 +17,11 @@ minimal_mistakes_skin  : "air"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Personal Blog of Tadas"
+title                    : "Tadas Bernotas, Clinical Neuropsychology MSc"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tadas Bernotas"
-description              : "Personal blog of Tadas Bernotas"
+description              : "Tadas Bernotas, Clinical Neuropsychology MSc"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -119,7 +119,7 @@ author:
   bio              : "Hey there! My name is Tadas and I am originally from Vilnius, Lithuania, but I have lived in the Netherlands for the past 5 years. After finishing my master's degree in Neuropsychology, I took a different turn and became a junior data manager at ODISSEI. I'm now working at Erasmus University to ensure better data reproducibility and accessibility. In my free time I enjoy working out, cooking and reading. My favourite genre is fantasy (LOTR is the best movie of all time) and I also like to read non-fiction books about history and psychology."
   location         : "Tilburg, The Netherlands"
   email            : "tadas@odissei-data.nl"
-  linkedin         : "www.linkedin.com/in/tadas-bernotas"
+  linkedin         : "tadas-bernotas/"
   orcid            : "https://orcid.org/0009-0004-3773-7548"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
@@ -147,7 +147,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/tadas-bernotas"
+      url: "https://www.linkedin.com/in/tadas-bernotas/"
       # rel: "me"  # optional: adds rel attribute (e.g. for IndieWeb web sign-in)
     - label: "Orcid"
       icon: "fab fa-orcid"
