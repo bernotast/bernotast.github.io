@@ -1,4 +1,35 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+hidden: true
+header:
+  overlay_color: "#2d3e50"
+  overlay_filter: 0.55
+  actions:
+    - label: "About Me"
+      url: "/about/"
+      btn_class: "btn--light-outline"
+    - label: "View CV"
+      url: "/cv/"
+      btn_class: "btn--light-outline"
+title: "Tadas Bernotas"
+excerpt: "Data Manager · Researcher · Neuropsychology MSc<br><small>Working at Erasmus University on research reproducibility and open science.</small>"
+feature_row:
+  - title: "About Me"
+    excerpt: "Clinical Neuropsychology graduate turned data manager, passionate about open science and research reproducibility."
+    url: "/about/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+  - title: "Blog"
+    excerpt: "Writing about personality psychology, data science, open science, and topics that catch my interest."
+    url: "/posts/"
+    btn_label: "Read Posts"
+    btn_class: "btn--primary"
+  - title: "Projects"
+    excerpt: "Data management and research projects at ODISSEI and Erasmus University."
+    url: "/projects/"
+    btn_label: "View Projects"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}

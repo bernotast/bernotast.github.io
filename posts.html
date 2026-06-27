@@ -1,7 +1,17 @@
 ---
-layout: posts
-title: Posts
+layout: archive
+title: Blog
 permalink: /posts/
 author_profile: true
-entries_layout: grid
 ---
+
+<p class="archive__subtitle">Writing about personality psychology, data science, open science, and whatever else catches my interest.</p>
+
+{% assign posts = site.posts %}
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
