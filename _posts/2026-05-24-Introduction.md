@@ -22,8 +22,7 @@ Suppose your boss comes into the office one day and is very angry, which is unus
 Let’s think of what conclusions we would draw from this. I assume that this is how he usually is, angry and nervous.  But you, as someone who has known him for a longer time, would say that the situation was exceptional and draw an entirely different conclusion.  You know that he was having a very bad migraine and he is usually nice and relaxed. Would this one bad day say something about his actual personality? Probably not.
 In this case, your observation would be much more insightful than mine, but you and I would draw different conclusions from exactly the same behaviour and situation. 
 
-This is why we need approaches, or ways of thinking about what we see. 
- The 5 main approaches are:
+This is why we need approaches, or ways of thinking about what we see. The 5 main approaches are:
 
 Trait 
 Biological
