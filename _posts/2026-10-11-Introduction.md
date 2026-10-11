@@ -1,12 +1,14 @@
-### \--- title: "Introduction to Personality Psychology" \--- 
+---
+title: "Introduction to Personality Psychology"
+---
 
-### **What is personality?**
+### What is personality?
 
 What do you think psychology is about? It is what people assume that psychology is about. “Can I change my teenager’s behaviour so they’re not so difficult all the time?” and “Why is my boss always so grumpy in meetings?” are questions that could genuinely be posed to personality psychologists and they might offer up valid answers. We pose these questions to ourselves and others all the time in our daily lives. It is simply a part of human living and therefore makes personality psychology incredibly fun and allows it to be used both for theory (e.g. Why do people become less anxious when they get older?) and practice (e.g. How can I make my boss like me?). Importantly, it also makes it relevant. An experiment about a pigeon performing tricks for food might not interest you as much as an experiment about trying to change people’s moods.
 
 But what is personality? Personality refers to the patterns of behaviours, thoughts, emotions and any mechanisms behind those patterns (Funder, 1996). Quite a difficult definition, but let’s break it down why it is constructed that way. The key word here is patterns. For it to count as personality (trait) it must be consistent and stable. An example for consistency could be: if you are talkative at home, you are more likely to be talkative at work. If you are very talkative at home, but do not talk at all at work, there might be something wrong with your work\! Or at least we would not count it as a personality trait. For stability, you should be about as talkative at 25 years old as 45 years old. Obviously you change as a person but overall your personality should be fairly stable, otherwise it would not be personality but rather a mood.
 
-### **Why it’s so hard to study**
+### Why it’s so hard to study
 
 When we talk about personality psychology we try to explain the whole individual. That is a huge undertaking. How can you explain something as complex as a person? We come across thousands of situations on a daily basis where we respond differently depending on our mood, health, relationship with others and more factors that would take ages to list out. Trying to explain all thoughts, behaviour, emotions and what is behind them is incredibly difficult, if not impossible. So we as psychologists (But also regular people\!) must limit ourselves to certain kinds of information. Certain kinds of observations, certain kinds of patterns and certain ways of thinking about these patterns.
 
@@ -16,7 +18,7 @@ Let’s think of what conclusions we would draw from this. I assume that this is
 
 In this case, your observation would be much more insightful than mine, but you and I would draw different conclusions from exactly the same behaviour and situation. This is why we need approaches, or ways of thinking about what we see.
 
-### **Five ways of looking at people**
+### Five ways of looking at people
 
 There are different approaches which have been used throughout the years with each one having its strengths and weaknesses. The five main approaches are:
 
@@ -26,7 +28,7 @@ There are different approaches which have been used throughout the years with ea
 * **Phenomenological.** The phenomenological approach (what a mouthful) is a kind of cross between psychology and philosophy, concerned with our experience of the world, free will, and the consequences of having that free will. Think about why people in similar circumstances develop wildly different beliefs. If two individuals had a horrible childhood, they could still turn out very differently. The phenomenological approach tries to explain this difference.  
 * **Behaviouristic.** Finally, behaviourists see themselves as fully experimental scientists of personality psychology. In the same way that sodium explodes when it comes into contact with water, behaviourists believe they can find consistent techniques to change someone’s behaviour. For example, if you reward someone with an ice cream when they complete a task, they will be more likely to do the task again.
 
-### **Why we use all of them at once**
+### Why we use all of them at once
 
 Looking back at the list you might rightfully say that these approaches look quite disconnected. What does the unconscious mind have in common with an ice cream reward? The truth is that these approaches do not compete between themselves. They all try to handle different questions about human psychology independently.
 
