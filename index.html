@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<header class="intro">
+  <img class="photo" src="{{ site.author.photo | relative_url }}" alt="Photo of {{ site.author.name }}" width="96" height="96">
+  <div>
+    <h1>{{ site.author.name }}</h1>
+    <p class="role">{{ site.author.role }}, {{ site.author.location }}</p>
+  </div>
+</header>
+
+<section class="prose">
+  <p>Hey there! I'm Tadas, originally from Vilnius, Lithuania, and I've lived in the Netherlands for the past five years.</p>
+  <p>After finishing my master's degree in Clinical Neuropsychology, I took a different turn and became a junior data manager at ODISSEI. I now work at Erasmus University, helping make research data more reproducible and accessible.</p>
+  <p>In my free time I enjoy working out, cooking and reading. My favourite genre is fantasy (LOTR is the best movie of all time), and I also like non-fiction about history and psychology.</p>
+</section>
+
+<ul class="links">
+  <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+  <li><a href="{{ site.author.linkedin }}">LinkedIn</a></li>
+  <li><a href="{{ site.author.orcid }}">ORCID</a></li>
+  <li><a href="{{ site.author.github }}">GitHub</a></li>
+</ul>
+
+<section class="writing">
+  <h2>Writing</h2>
+  {% if site.posts.size > 0 %}
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %-d, %Y' }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="muted">No posts yet.</p>
+  {% endif %}
+</section>

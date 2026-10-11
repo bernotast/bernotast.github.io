@@ -1,0 +1,41 @@
+# Site settings
+title: "Tadas Bernotas"
+description: "Data manager at Erasmus University. Clinical Neuropsychology MSc."
+url: "https://bernotast.github.io"
+baseurl: ""
+
+# About you (used on the home page)
+author:
+  name: "Tadas Bernotas"
+  role: "Data manager at Erasmus University"
+  location: "Tilburg"
+  photo: "/assets/images/Bio_Photo.jpg"
+  email: "tadas@odissei-data.nl"
+  linkedin: "https://www.linkedin.com/in/tadas-bernotas/"
+  orcid: "https://orcid.org/0009-0004-3773-7548"
+  github: "https://github.com/bernotast"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: /:year/:title/
+timezone: Europe/Amsterdam
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
